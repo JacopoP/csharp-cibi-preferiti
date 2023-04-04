@@ -1,7 +1,7 @@
 ﻿// See https://aka.ms/new-console-template for more information
 Console.WriteLine("Hello, World!");
 
-string[] favFood = { "pizza", "lasagne", "spaghetti alla carbonara", "arrosto", "piadina", };
+string[] favFood = { "pizza", "lasagne", "spaghetti alla carbonara", "acqua", "arrosto", "piadina", };
 
 Console.WriteLine($"You have {favFood.Length} favourite foods");
 
